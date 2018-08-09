@@ -1,2 +1,2 @@
 # XYKOinfo
-Site do xyko.info.com
+Site do [xyko.info](http://xyko.info)
